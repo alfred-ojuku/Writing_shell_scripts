@@ -18,7 +18,7 @@ report_home_space () {
 return
 }
 
-cat << _EOF_
+cat <<- _EOF_
 <HTML>
     <HEAD>
           <TITLE>$TITLE</TITLE>
